@@ -28,3 +28,4 @@ public
 package-lock.json
 
 *.test*
+src/setupTests.js
